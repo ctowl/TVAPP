@@ -52,7 +52,7 @@
 | 酷9直播                 | v1.7.7.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9直播) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿。具体看文件夹说明 |
 | HTV直播                 | v5.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-v5.1.0.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源，**内置咪咕源** |
 | 小飞电视                | v2.9.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/xiaofeitv-2.9.0.apk) | 🟢    | 小飞电视app是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。 |
-| 千寻直播                | v1.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻TV_1.1.2.apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
+| 千寻直播                | v1.1.5     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻TV_1.1.5.apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
 | 星火直播                | v1.0.52    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/星火海外版_1.0.52-cs.apk) | 🟢    | 完全免费，无需登录、无需授权，无任何广告弹窗，最大限度的简化页面结构，呈现给您最直观、最纯粹的电视节目。去广告去启动购物台版，5000+频道 |
 | WebViewTV               | v2.1.2  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/WebViewTV) | 🟢    | 直接使用官网直播链接，非常稳定可靠，稳定版下载v2.0.4，尝鲜版下载v2.1.2 |
 | 七星电视                | 251209      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/七星电视2.0.apk) | 🟢    | 内置央网源。软件没有什乱七八糟的东西，就是卫.央.当地，主打的就是一个稳 |
